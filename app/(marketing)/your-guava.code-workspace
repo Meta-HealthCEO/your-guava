@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../your-guava-portal"
+		},
+		{
+			"path": "../../../your-guava-backend"
+		}
+	],
+	"settings": {}
+}
